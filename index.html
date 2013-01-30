@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bootstrap 101 Template</title>
+    <!-- Bootstrap -->
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="vendor/js/tempo.js"></script>
+    <script src="vendor/js/bootstrap.min.js"></script>
+    <link href="vendor/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <script>
+        function gup(name) {
+          name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+          var regexS = "[\\?&]"+name+"=([^&#]*)";
+          var regex = new RegExp( regexS );
+          var results = regex.exec( window.location.href );
+          if( results == null )
+            return "";
+          else
+            var result = results[1].substring(0,results[1].length);
+            return decodeURIComponent(result).replace(/\+/g, " ")
+        }
+
+        function loadJson(url) {
+            var json = '';
+            $.ajax({
+            'async': false,
+            'global': false,
+            'url': url,
+            'dataType': "json",
+            'success': function (data) {
+                    json = data;
+                }
+            });
+            return json;
+        };
+    </script>
+    
+  </head>
+  <body>
+    <div id='papibaquigrafo' class="container">
+        <div id="data" data-template>
+            <h2>
+                TOSBack :: 
+                <form name="tos-form" id="tos-form" action="./index.html" method="get">
+                <input id="site" name="s" type="text" placeholder="{{name}}">
+                <input type="submit" text="OK">
+                </form>
+            </h2>
+            <pre>{{tos}}</pre>
+        </div>
+    </div>
+    <script>
+        $(document).ready(function() {
+            if (gup("s")) {
+                data = loadJson("json/" + gup("s") + ".json");
+            }
+            else {
+                data = loadJson("json/wired.com.json");
+            }
+            tos = Tempo.prepare("papibaquigrafo");
+            tos.starting();
+            tos.render(data);
+        });
+    </script>
+  </body>
+</html>
