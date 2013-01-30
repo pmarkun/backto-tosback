@@ -1,0 +1,7 @@
+{
+    "name": "drugs.com",
+    "retrieved": "2013-01-30 18:49:00",
+    "tos": "Privacy Policy",
+    "url": "http://www.drugs.com/support/privacy.html",
+    "xpath": "//div[@id='content']/div[@class='contentBox']/*[not(@id='first_ad_unit')]"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "cruises.co.uk",
+    "retrieved": "2013-01-30 18:40:30",
+    "tos": "\r\n        \r\n                \r\n            \r\n        \r\n            {lang: 'en-GB'}\r\n        ",
+    "url": "http://www.cruises.co.uk/pages.php?p=privacy",
+    "xpath": "//div[@class='body_wrapper']/*[not(iframe) and not(div)]"
+}

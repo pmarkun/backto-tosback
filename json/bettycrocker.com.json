@@ -1,0 +1,7 @@
+{
+    "name": "bettycrocker.com",
+    "retrieved": "2013-01-30 19:07:06",
+    "tos": "ENDECA_EXCLUDE_START",
+    "url": "http://www.bettycrocker.com/privacy-policy",
+    "xpath": "//div[@class='pageContainer']/*[not(@class='bcHead') and not(@id='globalNavigation') and not(@id='Footer') and not(@id='mobileFooter')]"
+}

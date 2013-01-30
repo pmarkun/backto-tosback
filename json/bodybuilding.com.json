@@ -1,0 +1,7 @@
+{
+    "name": "bodybuilding.com",
+    "retrieved": "2013-01-30 18:40:36",
+    "tos": "Bodybuilding.com Terms Of Use, Privacy Policy, And IPhone EULA",
+    "url": "http://www.bodybuilding.com/fun/disclaim.htm",
+    "xpath": "//div[@id='content']/div[@class='article-padding-content']/*[not(@id='article-related-articles') and not(@id='article-about-author') and not(@id='article-featured-product') and not(div[9]) and not(@class='padded-content article-content')]"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "squidoo.com",
+    "retrieved": "2013-01-30 18:58:14",
+    "tos": " lens_header ",
+    "url": "http://www.squidoo.com/squidoo/65355501-Terms-of-Service",
+    "xpath": "//div[@id='left_col']/article[@class='lens']/node()[not(contains(@class,'adsense')) and not(@id='lens_header')]"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "dailymail.co.uk",
+    "retrieved": "2013-01-30 18:47:59",
+    "tos": "Privacy policy & cookies",
+    "url": "http://www.dailymail.co.uk/home/article-1388040/Privacy-Policy--Cookies.html",
+    "xpath": "//div[@id='js-article-text']/*[not(self::div)]"
+}

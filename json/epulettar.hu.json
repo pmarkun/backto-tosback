@@ -1,0 +1,7 @@
+{
+    "name": "epulettar.hu",
+    "retrieved": "2013-01-30 19:03:05",
+    "tos": "F\u0151oldal\nAz epulettar.hu adatv\u00e9delmi \u00e9s adatkezel\u00e9si elvei \u00e9s gyakorlata",
+    "url": "http://epulettar.hu/cikk/page/adatvedelm-es-adatkezeles",
+    "xpath": "//article[@class='post printable clearfix']/*[not(@id='LikeIt')]"
+}
