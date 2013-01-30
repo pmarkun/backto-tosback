@@ -1,0 +1,7 @@
+<sitename name="tribalfusion.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.exponential.com/about-us/privacy.html" xpath="//div[@class='rtCont']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

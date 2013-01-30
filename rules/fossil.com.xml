@@ -1,0 +1,7 @@
+<sitename name="fossil.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.fossil.com/webapp/wcs/stores/servlet/ContentView?page=customerCare_securityPrivacy&amp;storeId=12052&amp;catalogId=25005&amp;langId=-1" xpath="//div[@id='contentPadding']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

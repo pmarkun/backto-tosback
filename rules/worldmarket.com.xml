@@ -1,0 +1,7 @@
+<sitename name="worldmarket.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.worldmarket.com/category/customer-service/privacy-and-security.do" xpath="//div[@class='helpdesk']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

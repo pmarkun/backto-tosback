@@ -1,0 +1,7 @@
+<sitename name="petsmart.com">
+ <docname name="Privacy Policy">
+   <url name="http://pets.petsmart.com/help/privacy-policy/" xpath="//div[@id='right-col']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

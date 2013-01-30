@@ -1,0 +1,7 @@
+<sitename name="hsn.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.hsn.com/cs/privacy_policy/default.aspx?o=!BNPR0&amp;cm_sp=Global-_-BN-_-Privacy" xpath="//div[@id='bodyBlock']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

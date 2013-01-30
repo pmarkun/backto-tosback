@@ -1,0 +1,7 @@
+<sitename name="orientaltrading.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.orientaltrading.com/ui/help/processRequest.do?requestURI=helpContent&amp;documentKey=privacysecurity" xpath="//div[@class='help']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

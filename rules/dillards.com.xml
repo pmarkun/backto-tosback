@@ -1,0 +1,7 @@
+<sitename name="dillards.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.dillards.com/information/faq?cm_sp=customerservice-_-faq-_-null" xpath="//div[@id='FaqLegal']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

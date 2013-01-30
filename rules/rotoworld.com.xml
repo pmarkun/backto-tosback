@@ -1,0 +1,7 @@
+<sitename name="rotoworld.com">
+ <docname name="Privacy Policy">
+   <url name="http://rotoworld.com/about/privacy.aspx" xpath="//div[@id='cp1_pnlFeatureBoxes']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

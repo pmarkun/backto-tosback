@@ -1,0 +1,7 @@
+<sitename name="abercrombie.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.abercrombie.com/webapp/wcs/stores/servlet/CustomerService?catalogId=10901&amp;storeId=11203&amp;langId=-1&amp;textKey=HELP_PRIVACYPOLICY&amp;pageName=privacy" xpath="//div[@id='help-content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

@@ -1,0 +1,7 @@
+<sitename name="joann.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.joann.com/privacypolicy/" xpath="//div[@id='static']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

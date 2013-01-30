@@ -1,0 +1,7 @@
+<sitename name="mail.google.com">
+  <docname name="Privacy Policy">
+    <url name="https://www.google.com/intl/en/policies/privacy/" xpath="//div[@class='maia-article']">
+      <norecurse name="arbitrary"/>
+    </url>
+  </docname>
+</sitename>

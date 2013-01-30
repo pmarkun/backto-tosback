@@ -1,0 +1,7 @@
+<sitename name="hallmark.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.hallmark.com/privacy/" xpath="//div[@class='wysiwyg grid-10']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

@@ -1,0 +1,7 @@
+<sitename name="homes.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.homes.com/Policies/" xpath="//div[@id='left']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

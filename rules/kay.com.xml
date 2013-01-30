@@ -1,0 +1,7 @@
+<sitename name="kay.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.kay.com/ContentView?catalogId=10001&amp;langId=-1&amp;storeId=10101&amp;cmsId=privacy-policy" xpath="//div[@id='tab1']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

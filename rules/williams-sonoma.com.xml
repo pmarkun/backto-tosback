@@ -1,0 +1,7 @@
+<sitename name="williams-sonoma.com">
+ <docname name="Terms and Conditions and Privacy Policy">
+   <url name="http://www.williams-sonoma.com/customer-service/legal-statement.html" xpath="//div[@id='content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

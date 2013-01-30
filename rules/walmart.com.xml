@@ -1,0 +1,7 @@
+<sitename name="walmart.com">
+ <docname name="Privacy Policy">
+   <url name="http://corporate.walmart.com/privacy-security/walmart-privacy-policy" xpath="//div[@class='bodyContent']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

@@ -1,0 +1,7 @@
+<sitename name="autozone.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.autozone.com/autozone/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=privacyPolicy&amp;pageCategory=privacyPolicy" xpath="//div[@id='contactus-content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

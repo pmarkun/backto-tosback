@@ -1,0 +1,7 @@
+<sitename name="einsurance.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.einsurance.com/info/privacy/" xpath="//div[@id='part2']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

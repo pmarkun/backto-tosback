@@ -1,0 +1,7 @@
+<sitename name="oprah.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.oprah.com/privacy_policy.html" xpath="//div[@class='main_body']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

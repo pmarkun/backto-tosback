@@ -1,0 +1,7 @@
+<sitename name="expedia.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.expedia.com/p/info-other/privacy-policy.htm" xpath="//div[@class='content']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

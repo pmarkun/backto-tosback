@@ -1,0 +1,7 @@
+<sitename name="thepostgame.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.thepostgame.com/privacy" xpath="//div[@id='node-188']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>

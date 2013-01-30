@@ -1,0 +1,7 @@
+<sitename name="homedepot.com">
+ <docname name="Privacy Policy">
+   <url name="http://www.homedepot.com/webapp/catalog/servlet/ContentView?pn=Privacy_Security&amp;langId=-1&amp;storeId=10051&amp;catalogId=10053" xpath="//div[@class='left-indent']">
+     <norecurse name="arbitrary"/>
+   </url>
+ </docname>
+</sitename>
